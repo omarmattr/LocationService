@@ -1,6 +1,6 @@
 # LocationService
 
-From <a hraf="https://github.com/omarmattr">omarmattr</a>
+From <a href="https://github.com/omarmattr">omarmattr</a>
 
  ```groovy
 import android.Manifest
