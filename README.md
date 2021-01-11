@@ -2,7 +2,7 @@
 
 From <a hraf="https://github.com/omarmattr">omarmattr</a>
 
-
+ ```groovy
 import android.Manifest
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -233,3 +233,4 @@ class Gps(private val mContext: Context) : Service(),
         getLocation()
     }
 }
+    ```
